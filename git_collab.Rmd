@@ -12,8 +12,18 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Hi there! 
 
+Hi Julia! Here's a code chunk where you can work:
+
+```{r}
+
+```
 
 
+And here's the code chunk where I can work:
+
+```{r}
+
+```
 
 
 
