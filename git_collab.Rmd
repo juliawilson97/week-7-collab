@@ -23,7 +23,9 @@ plot(cars)
 And here's the code chunk where I can work:
 
 ```{r}
+3 + 6
 
+head(cars)
 ```
 
 
