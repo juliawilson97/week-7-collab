@@ -15,7 +15,8 @@ Hi there!
 Hi Julia! Here's a code chunk where you can work:
 
 ```{r}
-
+2 + 2
+plot(cars)
 ```
 
 
